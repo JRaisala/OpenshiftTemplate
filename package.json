@@ -1,0 +1,23 @@
+{
+  "name": "template",
+  "version": "0.0.1",
+  "description": "Just an template for openshift",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JRaisala/OpenshiftTemplate.git"
+  },
+  "author": "Juha Räisälä",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JRaisala/OpenshiftTemplate/issues"
+  },
+  "homepage": "https://github.com/JRaisala/OpenshiftTemplate#readme",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
